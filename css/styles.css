@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav {
+    background-color: transparent;
+}
+
+.container {
+    height: 95vh;
+}
+
+.main {
+    height: 80vh;
+    background-color: #F4F6F5;
+    border-radius: 30px;
+}
+
+.titulo-1 {
+    font-size: 96px;
+    color: black;
+}
+
+.titulo-2 {
+    font-size: 32px;
+}
+
+.fondo-1 {
+    background-image: url('../img/rectangulo1-main.png');
+    display: inline-block;
+    width: 350px;
+    text-align: center;
+
+}
+
+.fondo-2 {
+    background-image: url('../img/rectangulo2-main.png');
+    display: inline-block;
+    width: 350px;
+    text-align: center;
+
+}
